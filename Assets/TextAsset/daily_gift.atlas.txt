@@ -1,0 +1,10 @@
+daily_gift.png
+size:292,164
+filter:Linear,Linear
+pma:true
+daily
+bounds:163,29,125,131
+frame_2
+bounds:2,2,158,159
+offsets:0,2,158,161
+rotate:90

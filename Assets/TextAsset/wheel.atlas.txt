@@ -1,0 +1,14 @@
+wheel.png
+size:204,288
+filter:Linear,Linear
+pma:true
+light1
+bounds:138,9,51,127
+offsets:2,4,56,141
+wheel
+bounds:2,2,134,134
+wheel_arrow
+bounds:152,225,49,61
+offsets:4,0,57,65
+wheel_frame
+bounds:2,138,148,148

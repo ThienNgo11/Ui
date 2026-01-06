@@ -1,0 +1,69 @@
+booster.png
+size:936,1032
+filter:Linear,Linear
+pma:true
+Sparks 002 Impact Explosion Radial-02
+bounds:752,11,72,58
+offsets:64,74,200,200
+rotate:90
+Sparks 002 Impact Explosion Radial-03
+bounds:678,19,91,72
+offsets:56,69,200,200
+rotate:90
+Sparks 002 Impact Explosion Radial-04
+bounds:590,2,108,86
+offsets:50,64,200,200
+rotate:90
+Sparks 002 Impact Explosion Radial-05
+bounds:452,120,125,98
+offsets:44,60,200,200
+Sparks 002 Impact Explosion Radial-06
+bounds:452,2,136,108
+offsets:41,57,200,200
+Sparks 002 Impact Explosion Radial-08
+bounds:752,85,150,127
+offsets:35,47,200,200
+Sparks 002 Impact Explosion Radial-09
+bounds:777,390,155,134
+offsets:32,42,200,200
+Sparks 002 Impact Explosion Radial-10
+bounds:596,246,160,139
+offsets:30,39,200,200
+Sparks 002 Impact Explosion Radial-11
+bounds:450,220,165,144
+offsets:27,36,200,200
+rotate:90
+Sparks 002 Impact Explosion Radial-12
+bounds:299,215,170,149
+offsets:25,33,200,200
+rotate:90
+Sparks 002 Impact Explosion Radial-13
+bounds:299,39,173,151
+offsets:24,32,200,200
+rotate:90
+Sparks 002 Impact Explosion Radial-14
+bounds:777,214,174,154
+offsets:24,31,200,200
+rotate:90
+Sparks 002 Impact Explosion Radial-15
+bounds:777,690,175,156
+offsets:25,30,200,200
+rotate:90
+Sparks 002 Impact Explosion Radial-16
+bounds:777,867,163,157
+offsets:37,29,200,200
+rotate:90
+Sparks 002 Impact Explosion Radial-17
+bounds:777,526,162,156
+offsets:38,30,200,200
+rotate:90
+Sparks 002 Impact Explosion Radial-18
+bounds:596,112,154,132
+offsets:46,30,200,200
+broom
+bounds:2,23,295,362
+hammer
+bounds:2,387,643,773
+rotate:90
+trick
+bounds:933,387,1,1

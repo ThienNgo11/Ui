@@ -1,0 +1,10 @@
+ads.png
+size:196,144
+filter:Linear,Linear
+pma:true
+ads
+bounds:2,2,139,139
+offsets:1,1,141,141
+light1
+bounds:143,14,51,127
+offsets:2,4,56,141
