@@ -1,0 +1,14 @@
+bundle.png
+size:316,172
+filter:Linear,Linear
+pma:true
+bundle
+bounds:161,55,151,112
+offsets:0,1,152,114
+frame_1
+bounds:2,8,157,159
+offsets:0,1,157,160
+light1
+bounds:161,2,51,127
+offsets:2,4,56,141
+rotate:90

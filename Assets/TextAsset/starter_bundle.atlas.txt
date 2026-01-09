@@ -1,0 +1,11 @@
+starter_bundle.png
+size:308,168
+filter:Linear,Linear
+pma:true
+flower
+bounds:161,2,143,58
+frame_1
+bounds:2,5,157,159
+offsets:0,1,157,160
+gift_box
+bounds:161,62,106,102

@@ -1,0 +1,28 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity cache
+*.unitypackage
+*.tmp
+*.bak
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

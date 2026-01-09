@@ -1,0 +1,12 @@
+battle_pass.png
+size:264,164
+filter:Linear,Linear
+pma:true
+frame_2
+bounds:2,2,158,159
+offsets:0,2,158,161
+rotate:90
+key
+bounds:163,50,110,97
+offsets:1,1,112,98
+rotate:90
