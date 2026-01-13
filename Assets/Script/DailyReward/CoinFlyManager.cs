@@ -83,9 +83,9 @@ public class CoinFlyManager : MonoBehaviour
     {
         float thoiGianDaBay = 0;
 
-        while (thoiGianBay < 0.3f)
+        while (thoiGianDaBay < 0.3f)
         {
-            thoiGianBay += Time.deltaTime;
+            thoiGianDaBay += Time.deltaTime;
             xu.position = Vector3.Lerp(xu.position, diemDau, thoiGianDaBay);
             yield return null;
         }

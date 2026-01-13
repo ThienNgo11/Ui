@@ -1,10 +1,8 @@
 fileFormatVersion: 2
-guid: 5a9569ca7709c134eb055de658e425aa
-timeCreated: 1767100325
-licenseType: Free
+guid: 176e118aee095ad4090fe26668cdb68c
 TrueTypeFontImporter:
-  serializedVersion: 4
   externalObjects: {}
+  serializedVersion: 4
   fontSize: 16
   forceTextureCase: -2
   characterSpacing: 0
@@ -13,13 +11,11 @@ TrueTypeFontImporter:
   fontNames:
   - MADE Tommy Soft
   fallbackFontReferences: []
-  customCharacters:
+  customCharacters: 
   fontRenderingMode: 0
-  output:
-    hasEmptyFontData: 0
   ascentCalculationMode: 1
   useLegacyBoundsCalculation: 0
   shouldRoundAdvanceValue: 1
-  userData:
-  assetBundleName:
-  assetBundleVariant:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
