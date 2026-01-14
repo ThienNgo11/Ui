@@ -22,7 +22,7 @@ public class RowController : MonoBehaviour
 
     void SetClaim(RewardGoldenPass data)
     {
-        if (GameManager.Instance.expPlayer >= data.expRequired)
+        if (GameManager.Instance.levelPlayer >= data.expRequired)
         {
             ClaimBtn.SetActive(true);
             Progress.sprite = ProgressDone;

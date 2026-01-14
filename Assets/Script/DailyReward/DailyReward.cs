@@ -1,5 +1,6 @@
 ﻿using NUnit.Framework;
 using System.Collections.Generic;
+using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
@@ -26,6 +27,11 @@ public class DailyReward : MonoBehaviour
         if (CoinFlyManager.Instance != null)
         {
             CoinFlyManager.Instance.StartCoinAnimation(ListItem[ngayHienTai - 1].transform.position, 10);
+        }
+        //cập nhật coin
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.setCoin(int.Parse(ListItem[ngayHienTai - 1].transform.Find("Item").GetChild(0).GetComponent<TextMeshProUGUI>().text));
         }
         ngayHienTai++;
         ListItem[ngayHienTai-1].GetComponent<Image>().sprite = HomNay;

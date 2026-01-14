@@ -7,6 +7,9 @@ public class UiSettingCotroller : MonoBehaviour
     public GameObject blockClick;
     public GameObject shopPopUp;
     public GameObject dailyRewardPopUp;
+    public GameObject goldenPassPopUp;
+    public GameObject goldenPassFesPopUp;
+    public GameObject taskPopUp;
     public void OpenSettingUI()
     {
         settingUI.SetActive(true);
@@ -46,7 +49,33 @@ public class UiSettingCotroller : MonoBehaviour
     {
         dailyRewardPopUp.SetActive(false);
         blockClick.SetActive(false);
+    }
+    public void OpenGoldenPassUI()
+    {
+        goldenPassPopUp.SetActive(true);
+    }
 
+    public void CloseGoldenPassUI()
+    {
+        goldenPassPopUp.SetActive(false);
+    }
+    public void OpenFes()
+    {
+        goldenPassFesPopUp.SetActive(true);
+    }
+
+    public void CloseFes()
+    {
+        goldenPassFesPopUp.SetActive(false);
+    }
+    public void OpenTaskPopUp()
+    {
+        taskPopUp.SetActive(true);
+    }
+
+    public void CloseTaskPopUp()
+    {
+        taskPopUp.SetActive(false);
     }
 
 

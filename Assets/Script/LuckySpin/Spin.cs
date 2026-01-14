@@ -5,13 +5,6 @@ using System.Collections;
 using System.ComponentModel;
 using System.Collections.Generic;
 
-[System.Serializable] 
-public class RewardData
-{
-    public Sprite vatPham;
-    public string soLuong;
-    public float tyLeRroi;  
-}
 
 public class Spin : MonoBehaviour
 {
@@ -53,6 +46,7 @@ public class Spin : MonoBehaviour
     [ContextMenu("Turn")]
     public void DoTurnTheWheel()
     {
+        SpinManager.Instance.ExecuteSpin();
         StartCoroutine(TurnTheWheel());
     }
 
